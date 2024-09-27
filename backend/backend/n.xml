@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="17.0.8" class="java.beans.XMLDecoder">
+ <object class="com.example.DrawingApp.drawings">
+  <void property="color">
+   <string>white</string>
+  </void>
+  <void property="length">
+   <int>200</int>
+  </void>
+  <void property="shapeType">
+   <string>elipse</string>
+  </void>
+ </object>
+</java>
